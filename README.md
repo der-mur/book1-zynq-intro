@@ -1,2 +1,2 @@
 # book1-zynq-intro
-Resources for my first book
+Supplementary material for the book: "A Practical Introduction to the Xilinx Zynq-7000 Adaptive SoC - Bare-Metal Fundamentals"
