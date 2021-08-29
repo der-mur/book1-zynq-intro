@@ -3,7 +3,7 @@ Supplementary material for the book: **"A Practical Introduction to the Xilinx Z
 
 ## What you can find here
 ### Step-By-Step Guides
-The most important content is found in the *step-by-step directory*; this contains comprehensive documents for developing the FPGA design and software projects in the textbook, along with the C code and FPGA constraint files. (The source files are found in the *files_for_import* directory.) The Digilent Zybo-Z7-20 is the main platform supported, although the Zybo-Z7-10 can also be used with no changes to C code or constraints. Files are also included for the Digilent/Avnet ZedBoard.
+The most important content is found in the *step-by-step* directory; this contains comprehensive documents for developing the FPGA design and software projects in the textbook, along with the C code and FPGA constraint files. (The source files are found in the *files_for_import* directory.) The Digilent Zybo-Z7-20 is the main platform supported, although the Zybo-Z7-10 can also be used with no changes to C code or constraints. Files are also included for the Digilent/Avnet ZedBoard.
 
 Two development flows are covered: 
 1. **Vivado HLx plus Xilinx SDK** (Vivado-SDK Flow.pdf); For Xilnx software versions up to and including 2019.1.
