@@ -35,15 +35,12 @@ set_property IOSTANDARD LVCMOS33 [get_ports gpio0_in*]
 #===============
 # gpio_out[7:0]
 #===============
-# Board LEDs: LD0 - LD7
+# Board LEDs: LD0 - LD3
 set_property PACKAGE_PIN T22 [get_ports {gpio0_out[0]}]
 set_property PACKAGE_PIN T21 [get_ports {gpio0_out[1]}]
 set_property PACKAGE_PIN U22 [get_ports {gpio0_out[2]}]
 set_property PACKAGE_PIN U21 [get_ports {gpio0_out[3]}]
-# set_property PACKAGE_PIN V22 [get_ports {gpio0_out[4]}]
-# set_property PACKAGE_PIN W22 [get_ports {gpio0_out[5]}]
-# set_property PACKAGE_PIN U19 [get_ports {gpio0_out[6]}]
-# set_property PACKAGE_PIN U14 [get_ports {gpio0_out[7]}]
+
 
 # PMOD JC Pins 1-4
 set_property PACKAGE_PIN AB7 [get_ports {gpio0_out[4]}]

@@ -6,11 +6,11 @@
  * @Version		:	1.0.0
  * @Compiler	:	arm-none-eabi-gcc
  * @Target		: 	Xilinx Zynq-7000
- * @Platform	: 	Digilent Zybo-Z7-20
+ * @Platform	: 	Digilent/Avnet ZedBoard
  *
  * ------------------------------------------------------------------------
  *
- * Copyright (C) 2020  Derek Murray
+ * Copyright (C) 2021  Derek Murray
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

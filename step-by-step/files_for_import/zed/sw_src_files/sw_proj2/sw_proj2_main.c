@@ -10,7 +10,7 @@
  *
  *
  *------------------------------------------------------------------------
- * Copyright (C) 2020  Derek Murray
+ * Copyright (C) 2021  Derek Murray
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -81,21 +81,21 @@
 /* ----------------------------------------------------------------------------
  * ----- PS7 GPIO -----
  *//**
- * For this project, LED9 and all PMOD JF pins are outputs.
+ * For this project, LED9 and all PMOD JE pins are outputs.
  * BTN8 and BTN9 are inputs.
  * ---------------------------------------------------------------------------*/
 
 typedef enum
 {
 	LED9 = 7,			/** MIO 7 */
-	PS_GP_OUT0 = 13,	/** MIO13, PMOD JF PIN 1 */
-	PS_GP_OUT1 = 10,	/** MIO10, PMOD JF PIN 2 */
-	PS_GP_OUT2 = 11,	/** MIO11, PMOD JF PIN 3 */
-	PS_GP_OUT3 = 12, 	/** MIO12, PMOD JF PIN 4 */
-	PS_GP_OUT4 = 0, 	/** MIO0, PMOD JF PIN 7 */
-	PS_GP_OUT5 = 9, 	/** MIO9, PMOD JF PIN 8 */
-	PS_GP_OUT6 = 14, 	/** MIO14, PMOD JF PIN 9 */
-	PS_GP_OUT7 = 15 	/** MIO15, PMOD JF PIN 10 */
+	PS_GP_OUT0 = 13,	/** MIO13, PMOD JE PIN 1 */
+	PS_GP_OUT1 = 10,	/** MIO10, PMOD JE PIN 2 */
+	PS_GP_OUT2 = 11,	/** MIO11, PMOD JE PIN 3 */
+	PS_GP_OUT3 = 12, 	/** MIO12, PMOD JE PIN 4 */
+	PS_GP_OUT4 = 0, 	/** MIO0, PMOD JE PIN 7 */
+	PS_GP_OUT5 = 9, 	/** MIO9, PMOD JE PIN 8 */
+	PS_GP_OUT6 = 14, 	/** MIO14, PMOD JE PIN 9 */
+	PS_GP_OUT7 = 15 	/** MIO15, PMOD JE PIN 10 */
 }PsGpio_OutPin_t;
 
 typedef enum
