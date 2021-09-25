@@ -58,8 +58,8 @@
 /* Toggle rate for LED0 if initialization fails */
 #define INIT_FAIL_LOOP_DELAY		10000000U
 
-/* Slow down LED4 toggle rate, when loop rate is very fast */
-#define LED4_TOGGLE_COUNT			8000U
+/* Slow down LED9 toggle rate, when loop rate is very fast */
+#define LED9_TOGGLE_COUNT			8000U
 
 
 

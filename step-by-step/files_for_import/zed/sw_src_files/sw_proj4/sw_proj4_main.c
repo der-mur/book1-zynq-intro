@@ -100,7 +100,7 @@ int main(void)
 	// ********************************************************************************* //
 
 #if MAIN_DEBUG
-	printf("\n\rRunning main program; LED4 should be toggling.\n\r");
+	printf("\n\rRunning main program; LED9 should be toggling.\n\r");
 #endif
 
 	/* Variables to store switch read values */
@@ -111,7 +111,7 @@ int main(void)
 	/* Use to slow down LED toggle rates, when loop rate is very fast */
 	uint32_t led1_count = 0U;
 	uint32_t led2_count = 0U;
-	uint32_t led4_count = 0U;
+	uint32_t led9_count = 0U;
 
 	/* Start the SCU timer; this controls the loop delay below. */
 	startScuTimer();
@@ -195,7 +195,7 @@ int main(void)
 
 		/* ----- (3) Service the SCU WDT  ------------------------------------------- */
 
-		/* SW3 = OFF: Normal operation. LED4 toggles to indicate program is running.
+		/* SW3 = OFF: Normal operation. LED9 toggles to indicate program is running.
 		 * The SCU watchdog will be 'tickled' with the restartScuWdt() call.
 		 * SW3 = ON: Simple test for the watchdog. The processor will eventually reset
 		 * because the watchdog will not be serviced.
@@ -206,11 +206,11 @@ int main(void)
 
 		if (sw3_state == 0U)
 		{
-			led4_count++;
-			if (led4_count == LED4_TOGGLE_COUNT)
+			led9_count++;
+			if (led9_count == LED9_TOGGLE_COUNT)
 			{
-				psGpOutToggle(LED4);
-				led4_count = 0U;
+				psGpOutToggle(LED9);
+				led9_count = 0U;
 			}
 			restartScuWdt();
 		}

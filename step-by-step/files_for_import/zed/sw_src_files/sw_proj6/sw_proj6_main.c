@@ -101,7 +101,7 @@ int main(void)
 	// ********************************************************************************* //
 
 #if MAIN_DEBUG
-	printf("\n\rRunning main program; LED4 should be toggling.\n\r");
+	printf("\n\rRunning main program; LED9 should be toggling.\n\r");
 #endif
 
 
@@ -109,8 +109,8 @@ int main(void)
 	for(;;) // Infinite loop
 	{
 
-		/* Use to slow down LED4 toggle rate, when loop rate is very fast */
-		static uint32_t led4_count = 0U;
+		/* Use to slow down LED9 toggle rate, when loop rate is very fast */
+		static uint32_t led9_count = 0U;
 
 		/* Flags for WDT to know that task completed */
 		static uint32_t task1_complete = 0U;
@@ -171,7 +171,7 @@ int main(void)
 			 * stays in this state, the watchdog will not be serviced, and the
 			 * system eventually resets.
 			 *
-			 * The LED4 count logic is used to slow the visible LED toggle rate
+			 * The LED9 count logic is used to slow the visible LED toggle rate
 			 * when the system is running very fast.  */
 
 			case SERVICE_WDT:
@@ -179,11 +179,11 @@ int main(void)
 
 				if ( (task1_complete == 1U) && (task2_complete == 1U) )
 				{
-					led4_count++;
-					if (led4_count == LED4_TOGGLE_COUNT)
+					led9_count++;
+					if (led9_count == LED9_TOGGLE_COUNT)
 					{
-						psGpOutToggle(LED4);
-						led4_count = 0;
+						psGpOutToggle(LED9);
+						led9_count = 0;
 					}
 					task1_complete = 0U;
 					task2_complete = 0U;

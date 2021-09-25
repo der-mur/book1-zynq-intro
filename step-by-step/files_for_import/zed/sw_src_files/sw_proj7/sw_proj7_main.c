@@ -101,6 +101,7 @@ int main(void)
 
 #if MAIN_DEBUG
 	printf("\n\rRunning main program; LED9 should be toggling.\n\r");
+	printf("\n\rPress BTN8 to toggle LED3.\n\r");	
 #endif
 
 

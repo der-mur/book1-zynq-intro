@@ -62,7 +62,7 @@
 /* Slow down LED toggle rates, when loop rate is very fast */
 #define LED1_TOGGLE_COUNT			2500U
 #define LED2_TOGGLE_COUNT			5000U
-#define LED4_TOGGLE_COUNT			10000U
+#define LED9_TOGGLE_COUNT			10000U
 
 
 /*****************************************************************************/
