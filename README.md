@@ -18,7 +18,7 @@ Book Links:
 
 
 ## What you can find here
-### Step-By-Step Guides
+### Step-By-Step Guides (+ TCL Flow!)
 The most important content is found in the *step-by-step* directory; this contains comprehensive documents for developing the FPGA design and software projects in the textbook, along with the C code and FPGA constraint files. (The source files are found in the *files_for_import* directory.) The Digilent Zybo-Z7-20 is the main platform supported, although the Zybo-Z7-10 can also be used with no changes to C code or constraints. Files are also included for the Digilent/Avnet ZedBoard.
 
 Two development flows are covered: 
@@ -28,7 +28,7 @@ Two development flows are covered:
 An optional guide for preparing the Zybo-Z7-20/10 platform is also provided ("Prepare Board Files.pdf").
 
 **Update 26th September 2021: TCL Flow added:**
-If the reader does not want to build the FPGA project in IP Integrator, they can instead use a TCL flow. This flow implements the design as far as the hardware hand-off stage; refer to ***TCL Flow.pdf*** for a comprehensive description.
+If the reader does not want to build the FPGA project in IP Integrator, they can instead use a TCL flow. This implements the design as far as the hardware hand-off stage; refer to ***TCL Flow.pdf*** for comprehensive instructions.
 
 ### Host Applications
 The host applications developed in Chapter 15 of the textbook are also provided in the *host_apps* directory. Currently, LabVIEW and Python examples are provided:
