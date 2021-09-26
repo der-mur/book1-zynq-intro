@@ -1,7 +1,9 @@
 # Introduction
 Supplementary material for the book: **"A Practical Introduction to the Xilinx Zynq-7000 Adaptive SoC - Bare-Metal Fundamentals"**, written by Derek Murray.
 
-Book Link (Amazon.com): https://www.amazon.com/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD
+Book Links:
+Amazon.com: https://www.amazon.com/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD
+Amazon.co.uk: https://www.amazon.co.uk/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD
 
 ## What you can find here
 ### Step-By-Step Guides
@@ -12,6 +14,9 @@ Two development flows are covered:
 1. **Vivado HLx plus Vitis IDE** (Vivado-Vitis IDE Flow.pdf); For Xilinx software versions >= 2020.1. (Note that Vivado HLx has been rebranded as Vivado ML Edition in June 2021.)
 
 An optional guide for preparing the Zybo-Z7-20/10 platform is also provided ("Prepare Board Files.pdf").
+
+**Update 26th September 2021: TCL Flow added:**
+If the reader does not want to build the FPGA project in IP Integrator, they can instead use a TCL flow. This flow implements the design as far as the hardware hand-off stage; refer to ***TCL Flow.pdf*** for a comprehensive description.
 
 ### Host Applications
 The host applications developed in Chapter 15 of the textbook are also provided in the *host_apps* directory. Currently, LabVIEW and Python examples are provided:
