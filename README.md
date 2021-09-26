@@ -2,8 +2,19 @@
 Supplementary material for the book: **"A Practical Introduction to the Xilinx Zynq-7000 Adaptive SoC - Bare-Metal Fundamentals"**, written by Derek Murray.
 
 Book Links:
-[Amazon.com](https://www.amazon.com/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD)
-[Amazon.co.uk](https://www.amazon.co.uk/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD)
+[amazon.com](https://www.amazon.com/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD) 
+[amazon.co.uk](https://www.amazon.co.uk/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD) 
+[amazon.de](https://www.amazon.de/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD) 
+[amazon.fr](https://www.amazon.fr/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD) 
+[amazon.es](https://www.amazon.es/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD) 
+[amazon.it](https://www.amazon.it/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD)
+[amazon.nl](https://www.amazon.nl/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD)
+[amazon.co.jp](https://www.amazon.co.jp/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD) 
+[amazon.in](https://www.amazon.in/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD) 
+[amazon.ca](https://www.amazon.ca/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD) 
+[amazon.com.br](https://www.amazon.com.br/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD)
+[amazon.com.mx](https://www.amazon.com.mx/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD)
+[amazon.com.au](https://www.amazon.com.au/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD)  
 
 
 ## What you can find here
