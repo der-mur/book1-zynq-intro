@@ -28,7 +28,7 @@ Two development flows are covered:
 An optional guide for preparing the Zybo-Z7-20/10 platform is also provided ("Prepare Board Files.pdf").
 
 **Update 26th September 2021: TCL Flow added:**
-If the reader does not want to build the FPGA project in IP Integrator, they can instead use a TCL flow. This implements the design as far as the hardware hand-off stage; refer to ***TCL Flow.pdf*** for comprehensive instructions.
+If the reader does not want to build the FPGA project in IP Integrator, they can instead use a TCL flow. This implements the design as far as the hardware hand-off stage; refer to ***TCL Flow.pdf*** in the step-by-step folder for comprehensive instructions.
 
 ### Host Applications
 The host applications developed in Chapter 15 of the textbook are also provided in the *host_apps* directory. Currently, LabVIEW and Python examples are provided:
