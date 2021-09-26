@@ -2,8 +2,8 @@
 Supplementary material for the book: **"A Practical Introduction to the Xilinx Zynq-7000 Adaptive SoC - Bare-Metal Fundamentals"**, written by Derek Murray.
 
 Book Links:
-Amazon.com: https://www.amazon.com/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD
-Amazon.co.uk: https://www.amazon.co.uk/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD
+[Amazon.com](https://www.amazon.com/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD)
+[Amazon.co.uk](https://www.amazon.co.uk/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD)
 
 
 ## What you can find here
