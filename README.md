@@ -18,6 +18,8 @@ Book Links:
 
 
 ## What you can find here
+**Update 25th April 2022: Sample chapters added.
+
 ### Step-By-Step Guides (+ TCL Flow!)
 The most important content is found in the *step-by-step* directory; this contains comprehensive documents for developing the FPGA design and software projects in the textbook, along with the C code and FPGA constraint files. (The source files are found in the *files_for_import* directory.) The Digilent Zybo-Z7-20 is the main platform supported, although the Zybo-Z7-10 can also be used with no changes to C code or constraints. Files are also included for the Digilent/Avnet ZedBoard.
 
