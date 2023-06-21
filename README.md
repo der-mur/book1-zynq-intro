@@ -1,20 +1,15 @@
 # Introduction
 Supplementary material for the book: **"A Practical Introduction to the Xilinx Zynq-7000 Adaptive SoC - Bare-Metal Fundamentals"**, written by Derek Murray.
 
-Book Links:
-[amazon.com](https://www.amazon.com/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD) 
-[amazon.co.uk](https://www.amazon.co.uk/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD) 
-[amazon.de](https://www.amazon.de/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD) 
-[amazon.fr](https://www.amazon.fr/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD) 
-[amazon.es](https://www.amazon.es/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD) 
-[amazon.it](https://www.amazon.it/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD)
-[amazon.nl](https://www.amazon.nl/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD)
-[amazon.co.jp](https://www.amazon.co.jp/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD) 
-[amazon.in](https://www.amazon.in/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD) 
-[amazon.ca](https://www.amazon.ca/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD) 
-[amazon.com.br](https://www.amazon.com.br/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD)
-[amazon.com.mx](https://www.amazon.com.mx/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD)
-[amazon.com.au](https://www.amazon.com.au/Practical-Introduction-Xilinx-Zynq-7000-Adaptive-ebook/dp/B09DZRYFRD)  
+## Update 21st June 2023: Digital Downloads of First Edition
+Two digital versions of the first edition are now freely available in the BOOK-FREE DOWNLOAD directory:
+
+### Kindle eBook Edition (MOBI)
+This mobi version is optimised for Amazon Kindle eBook Readers. It has been tested on the Kindle Paperwhite (6th edition), but should render fine on many other versions. Simply connect your Kindle to your PC just like a storage device, and copy the MOBI file to the Kindle; it should then appear in your book list on the device. Note that the MOBI version can also be viewed using the Kindle for PC app, but the images are low-res gray-scale gifs which don't look amazing on that software.
+
+### epub Edition
+This epub edition has been created with high resolution diagrams, which makes the file size quite large (93 MB). It can be viewed on many freely-available epub readers, but it looks much better on some than others (for example, I found that it renders very well on [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) and [Calibre](https://calibre-ebook.com/); note that I have no affiliation with either company). The epub version can also be viewed on the Kindle for PC app - to do this, you need to send it to your Kindle library. ([See this link.](https://www.amazon.com/sendtokindle))
+
 
 
 ## What you can find here
