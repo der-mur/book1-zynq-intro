@@ -32,10 +32,10 @@ The host applications developed in Chapter 15 of the textbook are also provided 
 2. **Python**: The python code is provided in the form of a Jupyter notebook (.ipynb format).
 
 ### Digilent Analog Discovery Logic Analyser Project Files
-In the *digilent_waveforms_workspaces* directory, logic analyser set-up files are provided for Projects 4-10 in the textbook. The test connections match those found in the text.
+In the [digilent_waveforms_workspaces](digilent_waveforms_workspaces) directory, logic analyser set-up files are provided for Projects 4-10 in the textbook. The test connections match those found in the text.
 
 ### Tera Term configuration file
-The authors Tera Term configuration file can be found in the *teraterm_config* directory.
+The authors Tera Term configuration file can be found in the [teraterm_config](teraterm_config) directory.
 
 
 
