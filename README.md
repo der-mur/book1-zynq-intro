@@ -13,7 +13,10 @@ This mobi version is optimised for Amazon Kindle eBook Readers. It has been test
 This epub edition has been created with high resolution diagrams, which makes the file size quite large (93 MB). It can be viewed on many freely-available epub readers, but it looks much better on some than others (for example, I found that it renders very well on [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) and [Calibre](https://calibre-ebook.com/); note that I have no affiliation with either company). The epub version can also be viewed on the Kindle for PC app - to do this, you need to send it to your Kindle library. ([See this link.](https://www.amazon.com/sendtokindle))
 
 #### High Resolution Figures
-High resolution PNGs are available [here](figures). These are freely available for use, but please give attribution if you do so!
+High resolution PNGs are available [here](figures/png). I have generated all of these images myself, and they are freely available for use, but please give attribution if you do so! 
+
+#### PDF Sample Chapters
+Sample chapters are available [here](sample_chapters).
 
 
 
