@@ -12,11 +12,10 @@ This epub edition has been created with high resolution diagrams, which makes th
 
 
 
-## What you can find here
-### Update 25th April 2022: Sample chapters added.
+## Main Supplementary Material
 
 ### Step-By-Step Guides (+ TCL Flow!)
-The most important content is found in the *step-by-step* directory; this contains comprehensive documents for developing the FPGA design and software projects in the textbook, along with the C code and FPGA constraint files. (The source files are found in the *files_for_import* directory.) The Digilent Zybo-Z7-20 is the main platform supported, although the Zybo-Z7-10 can also be used with no changes to C code or constraints. Files are also included for the Digilent/Avnet ZedBoard.
+The most important content is found in the [step-by-step](https://github.com/der-mur/book1-zynq-intro/tree/master/step-by-step) directory; this contains comprehensive documents for developing the FPGA design and software projects in the textbook, along with the C code and FPGA constraint files. (The source files are found in the [files_for_import](https://github.com/der-mur/book1-zynq-intro/tree/master/step-by-step/files_for_import) directory.) The Digilent Zybo-Z7-20 is the main platform supported, although the Zybo-Z7-10 can also be used with no changes to C code or constraints. Files are also included for the Digilent/Avnet ZedBoard.
 
 Two development flows are covered: 
 1. **Vivado HLx plus Xilinx SDK** (Vivado-SDK Flow.pdf); For Xilnx software versions up to and including 2019.1.
@@ -25,10 +24,10 @@ Two development flows are covered:
 An optional guide for preparing the Zybo-Z7-20/10 platform is also provided ("Prepare Board Files.pdf").
 
 **Update 26th September 2021: TCL Flow added:**
-If the reader does not want to build the FPGA project in IP Integrator, they can instead use a TCL flow. This implements the design as far as the hardware hand-off stage; refer to ***TCL Flow.pdf*** in the step-by-step folder for comprehensive instructions.
+If the reader does not want to build the FPGA project in IP Integrator, they can instead use a TCL flow. This implements the design as far as the hardware hand-off stage; refer to ***TCL Flow.pdf*** in the [step-by-step](https://github.com/der-mur/book1-zynq-intro/tree/master/step-by-step) folder for comprehensive instructions.
 
 ### Host Applications
-The host applications developed in Chapter 15 of the textbook are also provided in the *host_apps* directory. Currently, LabVIEW and Python examples are provided:
+The host applications developed in Chapter 15 of the textbook are also provided in the [host_apps](host_apps) directory. Currently, LabVIEW and Python examples are provided:
 1. **LabVIEW**: The LabVIEW application is developed in LabVIEW Community Edition, and it is packaged in JKI VIPM format. A PDF doc is also provided with software download locations and package installation instructions.
 2. **Python**: The python code is provided in the form of a Jupyter notebook (.ipynb format).
 
@@ -37,9 +36,6 @@ In the *digilent_waveforms_workspaces* directory, logic analyser set-up files ar
 
 ### Tera Term configuration file
 The authors Tera Term configuration file can be found in the *teraterm_config* directory.
-
-### Preview Document
-A preview document of the textbook can be found in the *book_preview_doc* directory.
 
 
 
