@@ -1,5 +1,6 @@
 # Introduction
 Supplementary material for the book: **"A Practical Introduction to the Xilinx Zynq-7000 Adaptive SoC - Bare-Metal Fundamentals"**, written by Derek Murray.
+![Cover](figures/cover_small.png)
 
 ## Update 21st June 2023: Free Digital Downloads of First Edition
 Two digital versions of the first edition are now freely available in the [BOOK-FREE DOWNLOAD](https://github.com/der-mur/book1-zynq-intro/tree/master/BOOK-FREE%20DOWNLOAD) directory:
