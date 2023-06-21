@@ -4,7 +4,7 @@ Supplementary material for the book: **"A Practical Introduction to the Xilinx Z
 ## Update 21st June 2023: Digital Downloads of First Edition
 Two digital versions of the first edition are now freely available in the BOOK-FREE DOWNLOAD directory:
 
-### Kindle eBook Edition (MOBI)
+### [Kindle eBook Edition (MOBI)](BOOK-FREE DOWNLOAD/Practical_Intro_Zynq7000_AdaptiveSoC_Complimentary.mobi)
 This mobi version is optimised for Amazon Kindle eBook Readers. It has been tested on the Kindle Paperwhite (6th edition), but should render fine on many other versions. Simply connect your Kindle to your PC just like a storage device, and copy the MOBI file to the Kindle; it should then appear in your book list on the device. Note that the MOBI version can also be viewed using the Kindle for PC app, but the images are low-res gray-scale gifs which don't look amazing on that software.
 
 ### epub Edition
@@ -39,7 +39,7 @@ In the *digilent_waveforms_workspaces* directory, logic analyser set-up files ar
 The authors Tera Term configuration file can be found in the *teraterm_config* directory.
 
 ### Preview Document
-A preview document of the textbook can be found in the *book_preview_doc* directory. Note that while the preview is in color format, all book editions are currently in grayscale format.
+A preview document of the textbook can be found in the *book_preview_doc* directory.
 
 
 
