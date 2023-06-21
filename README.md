@@ -2,7 +2,7 @@
 Supplementary material for the book: **"A Practical Introduction to the Xilinx Zynq-7000 Adaptive SoC - Bare-Metal Fundamentals"**, written by Derek Murray.
 
 ## Update 21st June 2023: Free Digital Downloads of First Edition
-Two digital versions of the first edition are now freely available in the [BOOK-FREE DOWNLOAD](BOOK-FREE DOWNLOAD) directory:
+Two digital versions of the first edition are now freely available in the [BOOK-FREE DOWNLOAD](https://github.com/der-mur/book1-zynq-intro/tree/master/BOOK-FREE%20DOWNLOAD)) directory:
 
 ### [Kindle eBook Edition (MOBI)](BOOK-FREE DOWNLOAD/kindle-ebook-reader-mobi)
 This mobi version is optimised for Amazon Kindle eBook Readers. It has been tested on the Kindle Paperwhite (6th edition), but should render fine on many other versions. Simply connect your Kindle to your PC just like a storage device, and copy the MOBI file to the Kindle; it should then appear in your book list on the device. Note that the MOBI version can also be viewed using the Kindle for PC app, but the images are low-res gray-scale gifs which don't look amazing on that software.
